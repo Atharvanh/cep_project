@@ -44,3 +44,4 @@ yarn-error.*
 phase2-dist/
 phase3-dist/
 tmp/pdfs/
+cep_app.rar
