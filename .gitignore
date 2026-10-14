@@ -39,3 +39,8 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Phase 2 validation exports
+phase2-dist/
+phase3-dist/
+tmp/pdfs/
